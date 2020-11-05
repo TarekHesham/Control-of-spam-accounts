@@ -1,0 +1,16 @@
+{
+  "name": "Spam",
+  "version": "2.1.0",
+  "description": "Farm Credit ProBot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.2",
+	"request": "^2.88.2"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
